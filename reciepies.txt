@@ -3,3 +3,5 @@ welocme to deepak workstation
 yum server
 httpd server
 appache server
+vsftde server
+Lvm
