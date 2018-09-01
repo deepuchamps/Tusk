@@ -5,3 +5,6 @@ httpd server
 appache server
 vsftde server
 Lvm
+
+mysql
+jdk
