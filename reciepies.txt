@@ -7,4 +7,11 @@ vsftde server
 Lvm
 
 
+mysql
+jdk
+
+tomcat
+
+
 amazon server
+
